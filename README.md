@@ -1,3 +1,3 @@
-# MachineLearning
+# MachineLearningWorkspace
 
-This is MachineLearning (Do it Book and Nado Coding lecture) by KYW
+This is MachineLearningWorkspace (Do it Book and Nado Coding lecture) by KYW
